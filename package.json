@@ -1,0 +1,29 @@
+{
+  "name": "excel-course",
+  "version": "1.0.0",
+  "description": "Pure JavaScript Exel Application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "js",
+    "javascript",
+    "excel"
+  ],
+  "author": "Ktm",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/katit101/excel-course.git"
+  },
+  "bugs": {
+    "url": "https://github.com/katit101/excel-course/issues"
+  },
+  "homepage": "https://github.com/katit101/excel-course#readme",
+  "private": true,
+  "devDependencies": {
+    "webpack": "^5.53.0",
+    "webpack-cli": "^4.8.0"
+  }
+}
